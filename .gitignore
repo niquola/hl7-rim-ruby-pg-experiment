@@ -1,0 +1,8 @@
+*~
+*.swp
+*.swo
+*.swn
+*.swm
+bin/
+.bundle
+tags
